@@ -12,5 +12,5 @@
 
 
 
- <img src="Mazora/shot.png" width="400" height="790"> <img src="Mazora/shot2.png" width="400" height="790">
+ <img src="Mazora/shot.png" width="400" height="600"> <img src="Mazora/shot2.png" width="400" height="600">
 
