@@ -4,7 +4,7 @@
  
 <ul>
 
-<li> mazora is app where you find your well tailored sizes just type your  .</li>
+<li> mazora is app where you find your well tailored sizes just measure your chest , sleeve ,leg and shoe length in cm .</li>
  </ul>
 
 
